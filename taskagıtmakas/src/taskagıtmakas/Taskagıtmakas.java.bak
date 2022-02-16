@@ -55,7 +55,10 @@ import java.util.Scanner;
 			}
 			System.out.println("seçtiğiniz değer:"+kisi);
                         System.out.println("pcnin seçtiği:"+pc);
-		}	
+		}
+		
+		
+		
     }
     
 }
